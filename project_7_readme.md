@@ -14,7 +14,7 @@ Time spent: **10** hours spent in total
   - Tested in version: 4.1.0
   - Fixed in version: WordPress 4.1.2 
 - [ ] GIF Walkthrough: 
-![](ezgif.com-gif-maker(1).gif)
+- [ ] ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/88115439/199626407-a8eaa02b-f821-4c29-b3a2-3410e719db14.gif)
 - [ ] Steps to recreate: create a post and then test my inject Cross-Site Scripting (basic script tags) into the comment section. To find the vunerbility I used WPSCAN.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
