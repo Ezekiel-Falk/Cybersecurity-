@@ -33,6 +33,7 @@ Time spent: **10** hours spent in total
   - Fixed in version: 4.1.28
 - [ ] GIF Walkthrough: 
 ![](ezgif.com-gif-maker(1)%20copy.gif)
+![](ezgif.com-gif-maker(1)%20copy.gif)
 - [ ] Steps to recreate: First did a wpscan on the site to find username enumerations. With this I than created two files usernames and passwords which contained the username found and sample passwords. 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -45,6 +46,8 @@ Time spent: **10** hours spent in total
   - Fixed in version: 4.1.28
 - [ ] GIF Walkthrough: ![](Screen%20Shot%202022-11-02%20at%207.54.02%20PM.png)
 ![](ezgif.com-gif-maker(1)%20copy%202.gif)
+![Screen Shot 2022-11-02 at 7 54 02 PM](https://user-images.githubusercontent.com/88115439/199632896-7a3d7131-2bcc-4f20-ace8-1d3b2c325596.png)
+
 - [ ] Steps to recreate: After getting the resultes back from the first scan I then did another scan for the password which came back with the correct passkey. 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
