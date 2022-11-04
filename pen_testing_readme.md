@@ -29,9 +29,9 @@ Vulnerability #1: Brut Force with (Burp Suite Community)
 
 Description: I Brut Forced the the Url id to find a hidden pages. By using a proxy connected to my browser I was able to try multiple numbers on the ID until I came across two hidden messages. 
 
-![red4_burp_2](https://user-images.githubusercontent.com/88115439/200071334-9d099764-7a68-4902-beed-3f0d150ce0e0.gif)
 ![red3](https://user-images.githubusercontent.com/88115439/200071339-fca92da7-972f-4287-8c1e-f764a6c6d270.gif)
 ![red4_Burp](https://user-images.githubusercontent.com/88115439/200071342-348977ad-ce6e-4aeb-abfa-842522968d5d.gif)
+![red4_burp_2](https://user-images.githubusercontent.com/88115439/200071334-9d099764-7a68-4902-beed-3f0d150ce0e0.gif)
 
 
 
@@ -40,9 +40,8 @@ Description: I Brut Forced the the Url id to find a hidden pages. By using a pro
 Vulnerability #1: Cross site scripting (xss)
 
 Description: For this  attack I started off with cross side scripting in the comments. With much success I was able to leave an alert.
-
-![green(5_1)](https://user-images.githubusercontent.com/88115439/200071370-84ebd72f-0f6b-4a10-a47d-0ffb9803f283.gif)
 ![green(5)](https://user-images.githubusercontent.com/88115439/200071373-3c68f5bf-e1b3-45e1-b4ba-385288b236e9.gif)
+![green(5_1)](https://user-images.githubusercontent.com/88115439/200071370-84ebd72f-0f6b-4a10-a47d-0ffb9803f283.gif)
 
 
 
