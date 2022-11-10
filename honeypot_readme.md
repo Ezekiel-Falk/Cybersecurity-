@@ -9,6 +9,8 @@
 **Summary:** 
 
 To deploy the Honeypot I used Google Cloud Platform (GCP) a "cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products"(Wikipedia).
+![Screen Shot 2022-11-08 at 2 15 50 PM](https://user-images.githubusercontent.com/88115439/201148981-498c635a-6fe4-420b-aa9d-8d8fdd9c5705.png)
+![Screen Shot 2022-11-08 at 2 58 59 PM](https://user-images.githubusercontent.com/88115439/201149004-78c164a0-d908-4eb8-bba2-d00b4cf71359.png)
 
 <img src="mhn-admin.gif">
 
